@@ -1,0 +1,167 @@
+A on	
+A off	
+B on	
+B off	
+C on	
+C off	
+D on	
+D off	
+
+
+Captured by rc-switch / ReceivedDemo_Advanced:
+
+A on
+
+Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3  30 FD AC
+Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+
+Decimal: 3278108 (24Bit) Binary: 001100100000010100011100 Tri-State: not applicable PulseLength: 517 microseconds Protocol: 5  32 05 1C
+Decimal: 3278108 (24Bit) Binary: 001100100000010100011100 Tri-State: not applicable PulseLength: 517 microseconds Protocol: 5
+Decimal: 3278108 (24Bit) Binary: 001100100000010100011100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 3278108 (24Bit) Binary: 001100100000010100011100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+
+Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 517 microseconds Protocol: 5  36 A4 6C
+Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+
+A off
+
+Decimal: 3722172 (24Bit) Binary: 001110001100101110111100 Tri-State: not applicable PulseLength: 517 microseconds Protocol: 5  38 CB BC 
+Decimal: 3722172 (24Bit) Binary: 001110001100101110111100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 3722172 (24Bit) Binary: 001110001100101110111100 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3722172 (24Bit) Binary: 001110001100101110111100 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
+
+Decimal: 3789708 (24Bit) Binary: 001110011101001110001100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3  39 D3 8C
+Decimal: 3789708 (24Bit) Binary: 001110011101001110001100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3789708 (24Bit) Binary: 001110011101001110001100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3789708 (24Bit) Binary: 001110011101001110001100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3789708 (24Bit) Binary: 001110011101001110001100 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+
+Decimal: 4036476 (24Bit) Binary: 001111011001011101111100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3  3D 97 7C
+Decimal: 4036476 (24Bit) Binary: 001111011001011101111100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 4036476 (24Bit) Binary: 001111011001011101111100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+Decimal: 4036476 (24Bit) Binary: 001111011001011101111100 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 4036476 (24Bit) Binary: 001111011001011101111100 Tri-State: not applicable PulseLength: 523 microseconds Protocol: 5
+Decimal: 4036476 (24Bit) Binary: 001111011001011101111100 Tri-State: not applicable PulseLength: 523 microseconds Protocol: 5
+
+B on
+
+Decimal: 3387957 (24Bit) Binary: 001100111011001000110101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3  33 B2 35
+Decimal: 3387957 (24Bit) Binary: 001100111011001000110101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387957 (24Bit) Binary: 001100111011001000110101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387957 (24Bit) Binary: 001100111011001000110101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387957 (24Bit) Binary: 001100111011001000110101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+
+Decimal: 3430645 (24Bit) Binary: 001101000101100011110101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3430645 (24Bit) Binary: 001101000101100011110101 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3430645 (24Bit) Binary: 001101000101100011110101 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
+Decimal: 3430645 (24Bit) Binary: 001101000101100011110101 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 3430645 (24Bit) Binary: 001101000101100011110101 Tri-State: not applicable PulseLength: 523 microseconds Protocol: 5
+
+Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
+Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
+
+B off
+
+Decimal: 3236037 (24Bit) Binary: 001100010110000011000101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3236037 (24Bit) Binary: 001100010110000011000101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3236037 (24Bit) Binary: 001100010110000011000101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3236037 (24Bit) Binary: 001100010110000011000101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484373 (24Bit) Binary: 001101010010101011010101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484373 (24Bit) Binary: 001101010010101011010101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484373 (24Bit) Binary: 001101010010101011010101 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3484373 (24Bit) Binary: 001101010010101011010101 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
+Decimal: 3624773 (24Bit) Binary: 001101110100111101000101 Tri-State: 01F1F011F0FF PulseLength: 102 microseconds Protocol: 3
+Decimal: 3624773 (24Bit) Binary: 001101110100111101000101 Tri-State: 01F1F011F0FF PulseLength: 102 microseconds Protocol: 3
+Decimal: 3901077 (24Bit) Binary: 001110111000011010010101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3901077 (24Bit) Binary: 001110111000011010010101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3901077 (24Bit) Binary: 001110111000011010010101 Tri-State: not applicable PulseLength: 517 microseconds Protocol: 5
+Decimal: 3901077 (24Bit) Binary: 001110111000011010010101 Tri-State: not applicable PulseLength: 523 microseconds Protocol: 5
+
+
+C on
+
+Decimal: 3722174 (24Bit) Binary: 001110001100101110111110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3722174 (24Bit) Binary: 001110001100101110111110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3722174 (24Bit) Binary: 001110001100101110111110 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
+Decimal: 3722174 (24Bit) Binary: 001110001100101110111110 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
+Decimal: 3722174 (24Bit) Binary: 001110001100101110111110 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
+
+Decimal: 3789710 (24Bit) Binary: 001110011101001110001110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3789710 (24Bit) Binary: 001110011101001110001110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3789710 (24Bit) Binary: 001110011101001110001110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3789710 (24Bit) Binary: 001110011101001110001110 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3789710 (24Bit) Binary: 001110011101001110001110 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
+
+Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+
+C off
+
+Decimal: 3210670 (24Bit) Binary: 001100001111110110101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210670 (24Bit) Binary: 001100001111110110101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210670 (24Bit) Binary: 001100001111110110101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210670 (24Bit) Binary: 001100001111110110101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3210670 (24Bit) Binary: 001100001111110110101110 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 3210670 (24Bit) Binary: 001100001111110110101110 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
+Decimal: 3278110 (24Bit) Binary: 001100100000010100011110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3278110 (24Bit) Binary: 001100100000010100011110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3278110 (24Bit) Binary: 001100100000010100011110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3278110 (24Bit) Binary: 001100100000010100011110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3278110 (24Bit) Binary: 001100100000010100011110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3581038 (24Bit) Binary: 001101101010010001101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3581038 (24Bit) Binary: 001101101010010001101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3581038 (24Bit) Binary: 001101101010010001101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3581038 (24Bit) Binary: 001101101010010001101110 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 3581038 (24Bit) Binary: 001101101010010001101110 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
+
+
+D on
+
+Decimal: 3236039 (24Bit) Binary: 001100010110000011000111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3236039 (24Bit) Binary: 001100010110000011000111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3236039 (24Bit) Binary: 001100010110000011000111 Tri-State: not applicable PulseLength: 519 microseconds Protocol: 5
+Decimal: 3236039 (24Bit) Binary: 001100010110000011000111 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 3236039 (24Bit) Binary: 001100010110000011000111 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+
+Decimal: 3484375 (24Bit) Binary: 001101010010101011010111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484375 (24Bit) Binary: 001101010010101011010111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484375 (24Bit) Binary: 001101010010101011010111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484375 (24Bit) Binary: 001101010010101011010111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484375 (24Bit) Binary: 001101010010101011010111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3484375 (24Bit) Binary: 001101010010101011010111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+
+Decimal: 3624775 (24Bit) Binary: 001101110100111101000111 Tri-State: 01F1F011F0F1 PulseLength: 102 microseconds Protocol: 3
+Decimal: 3624775 (24Bit) Binary: 001101110100111101000111 Tri-State: 01F1F011F0F1 PulseLength: 102 microseconds Protocol: 3
+Decimal: 3624775 (24Bit) Binary: 001101110100111101000111 Tri-State: 01F1F011F0F1 PulseLength: 102 microseconds Protocol: 3
+Decimal: 3624775 (24Bit) Binary: 001101110100111101000111 Tri-State: 01F1F011F0F1 PulseLength: 521 microseconds Protocol: 5
+Decimal: 3624775 (24Bit) Binary: 001101110100111101000111 Tri-State: 01F1F011F0F1 PulseLength: 523 microseconds Protocol: 5
+
+D off
+
+Decimal: 3387959 (24Bit) Binary: 001100111011001000110111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387959 (24Bit) Binary: 001100111011001000110111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387959 (24Bit) Binary: 001100111011001000110111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387959 (24Bit) Binary: 001100111011001000110111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3387959 (24Bit) Binary: 001100111011001000110111 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 3860967 (24Bit) Binary: 001110101110100111100111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3860967 (24Bit) Binary: 001110101110100111100111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3860967 (24Bit) Binary: 001110101110100111100111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3860967 (24Bit) Binary: 001110101110100111100111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 3860967 (24Bit) Binary: 001110101110100111100111 Tri-State: not applicable PulseLength: 523 microseconds Protocol: 5
+Decimal: 4161031 (24Bit) Binary: 001111110111111000000111 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+Decimal: 4161031 (24Bit) Binary: 001111110111111000000111 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
+Decimal: 4161031 (24Bit) Binary: 001111110111111000000111 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 4161031 (24Bit) Binary: 001111110111111000000111 Tri-State: not applicable PulseLength: 521 microseconds Protocol: 5
+Decimal: 4161031 (24Bit) Binary: 001111110111111000000111 Tri-State: not applicable PulseLength: 522 microseconds Protocol: 5
