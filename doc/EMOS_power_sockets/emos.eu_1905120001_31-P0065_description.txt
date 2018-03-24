@@ -1,0 +1,23 @@
+Basic product description
+Remote-controlled socket. Allows turning appliances on and off remotely using a remote controller.
+
+Product parameters
+product	remote-controlled sockets, 3 sockets + 1× remote control
+number of sockets	1× 2P + PE
+switch	no
+voltage/current	230 V~/4.35 A max.
+children protection	yes
+colour	white
+IP rating	IP20
+material	plastic
+safety contact position	not stated
+type	FRENCH
+number of positions	2P + PE
+maximum load	1 000 W
+remote control	power supply 1× 3 V CR2032 (included)
+signal range	up to 25 m in an open area
+easy learning	manual assignment of sockets to the controller
+controllable	up to 4 sockets
+transmission frequency	433.92 MHz
+outdoor using	no
+packaging	1 pc, blister
