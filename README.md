@@ -1,7 +1,7 @@
 # arduino_emos_sockets_controller
 Arduino controls EMOS sockets via 433 MHz radio communication.
 
-The goal of this project is to controll the lights connected into the 240V sockets from the wire powered by a light switch mounted on the wall. The switch would then control the power of an arduino module, which would send on and off commands to the 433MHz controlled EMOS power sockets.
+The goal of this project is to controll the lights connected into the 240V sockets from the wire powered by a light switch mounted on the wall. The switch would then control the power of an arduino module, which would send on and off commands to the 433MHz controlled EMOS power sockets. The work on this project was inspired by https://www.root.cz/clanky/arduino-na-433-mhz-komunikuje-s-bazenovym-teplomerem/.
 
 Requirements:
 * When the Arduino is powered on (switch was turned on), it turns on EMOS sockets A and B
