@@ -12,6 +12,24 @@ Captured by rc-switch / ReceivedDemo_Advanced:
 
 A on
 
+001111100011000101011100
+Sync Hi start: 0m 1s + 22133 samples (-2, -3, -20)
+Sync Lo start: 0m 1s + 22263 samples (-2, -3, -20) = 130 samples = 2947.8458049886621315192743764172 us
+Data start: 0m 1s + 22584 samples (-1, -2, -19) = 322 samples = 7301.58730158730158730158730159 us
+
+0 Hi duration: 18, 18, 18, 18 samples = 408,16326530612244897959183673469 us
+0 Lo duration: 50, 50, 50, 50 samples = 1133,7868480725623582766439909297 us
+0 duration: 68 samples
+
+1 Hi duration: 40, 40, 40, 40 samples = 907,02947845804988662131519274376 us
+1 Lo duration: 27, 27, 27, 27 samples = 612,24489795918367346938775510204 us
+1 duration: 67 samples
+
+sampling frequency: 44100 Hz, 1 sample = 22.6757 us
+
+Protocol:
+{ 20, { 147, 365}, { 20, 57}, { 45, 31}, false }
+
 Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3  30 FD AC
 Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
 Decimal: 3210668 (24Bit) Binary: 001100001111110110101100 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
@@ -28,6 +46,8 @@ Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applica
 Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
 Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
 Decimal: 3581036 (24Bit) Binary: 001101101010010001101100 Tri-State: not applicable PulseLength: 518 microseconds Protocol: 5
+
+
 
 A off
 
