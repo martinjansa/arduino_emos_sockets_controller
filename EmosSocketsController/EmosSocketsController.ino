@@ -1,7 +1,7 @@
 /*
-  Example for different sending methods
+  Sends a power on and power off command to remote controlled sockets EMOS P0065 via 433.92 MHz radio
   
-  https://github.com/sui77/rc-switch/
+  Based on the SendDemo example from https://github.com/sui77/rc-switch/.
   
 */
 
@@ -12,46 +12,32 @@ RCSwitch mySwitch = RCSwitch();
 void setup() {
 
   Serial.begin(9600);
+
+  Serial.println("Configuring 433 MHz transmission.");
   
   // Transmitter is connected to Arduino Pin #10  
   mySwitch.enableTransmit(10);
   
   // Optional set protocol (default is 1, will work for most outlets)
-  // mySwitch.setProtocol(2);
+  mySwitch.setProtocol(8);
 
   // Optional set pulse length.
-  // mySwitch.setPulseLength(320);
+//  mySwitch.setPulseLength(520);
   
   // Optional set number of transmission repetitions.
-  // mySwitch.setRepeatTransmit(15);
+  mySwitch.setRepeatTransmit(3);
   
+  Serial.println("433 MHz transmission configured.");
 }
 
 void loop() {
 
-  /* See Example: TypeA_WithDIPSwitches */
-  mySwitch.switchOn("11111", "00010");
-  delay(1000);
-  mySwitch.switchOff("11111", "00010");
-  delay(1000);
-
-  /* Same switch as above, but using decimal code */
-  mySwitch.send(5393, 24);
-  delay(1000);  
-  mySwitch.send(5396, 24);
-  delay(1000);  
-
   /* Same switch as above, but using binary code */
-  mySwitch.send("000000000001010100010001");
-  delay(1000);  
-  mySwitch.send("000000000001010100010100");
-  delay(1000);
-
-  /* Same switch as above, but tri-state code */ 
-  mySwitch.sendTriState("00000FFF0F0F");
-  delay(1000);  
-  mySwitch.sendTriState("00000FFF0FF0");
-  delay(1000);
-
-  delay(20000);
+  Serial.println("Sending A on");
+  mySwitch.send("001101101010010001101100");
+  delay(10000);  
+  Serial.println("Sending A off");
+  mySwitch.send("001111011001011101111100");
+  delay(10000);
 }
+
