@@ -13,17 +13,35 @@ Captured by rc-switch / ReceivedDemo_Advanced:
 A on
 
 001111100011000101011100
-Sync Hi start: 0m 1s + 22133 samples (-2, -3, -20)
-Sync Lo start: 0m 1s + 22263 samples (-2, -3, -20) = 130 samples = 2947.8458049886621315192743764172 us
-Data start: 0m 1s + 22584 samples (-1, -2, -19) = 322 samples = 7301.58730158730158730158730159 us
 
-0 Hi duration: 18, 18, 18, 18 samples = 408,16326530612244897959183673469 us
-0 Lo duration: 50, 50, 50, 50 samples = 1133,7868480725623582766439909297 us
-0 duration: 68 samples
+Phase A
+Sync Hi duration:     12 samples =  272 us
+Sync Lo duration:    105 samples = 2381 us
+Sync total duration: 117 samples = 2653 us
 
-1 Hi duration: 40, 40, 40, 40 samples = 907,02947845804988662131519274376 us
-1 Lo duration: 27, 27, 27, 27 samples = 612,24489795918367346938775510204 us
-1 duration: 67 samples
+0 Hi duration:        13 samples =  295 us =  13.2   =  299,319 us
+0 Lo duration:        54 samples = 1224 us =  54.466 = 1235,055 us
+0 total duration:     67 samples = 1534 us =  67.666 = 1534,374 us
+
+1 Hi duration:        47 samples =         =  47.466 = 1076,325 us
+1 Lo duration:        21 samples =         =  21.2   =  480,725 us
+1 total duration:     68 samples = 1542 us =  67.666 = 1534,374 us
+
+ 24 data bits:        14095 - 12471 = 1624 samples => 67,666
+
+Phase B 
+
+Sync Hi duration:    130 samples = 2948 us = 
+Sync Lo duration:    322 samples = 7302 us = 
+Sync total duration: 452 samples = 
+
+0 Hi duration:        18 samples =  408 us = 17,666 =  400,589 us
+0 Lo duration:        50 samples = 1134 us = 50,000 = 1133,785 us
+0 duration:                                  67,666 = 1534,374 us
+
+1 Hi duration:        40 samples =  907 us = 40,466 =  917,585 us
+1 Lo duration:        27 samples =  612 us = 27,2   =  616,779 us
+0 duration:                                  67,666 = 1534,374 us
 
 sampling frequency: 44100 Hz, 1 sample = 22.6757 us
 
@@ -89,6 +107,34 @@ Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applica
 Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
 Decimal: 3860965 (24Bit) Binary: 001110101110100111100101 Tri-State: not applicable PulseLength: 520 microseconds Protocol: 5
 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 111111 1111100 1010 , hexadecimal: 3F 7C A 
+Received 24 bits, binary: 110011 10110010 110101 , hexadecimal: 33 B2 35 
+Received 24 bits, binary: 110011 10110010 110101 , hexadecimal: 33 B2 35 
+Received 24 bits, binary: 110011 10110010 110101 , hexadecimal: 33 B2 35 
+Received 24 bits, binary: 110011 10110010 110100 , hexadecimal: 33 B2 34 
+Received 24 bits, binary: 110100 1011000 11110101 , hexadecimal: 34 58 F5 
+Received 24 bits, binary: 110100 1011000 11110101 , hexadecimal: 34 58 F5 
+Received 24 bits, binary: 110100 1011000 11110100 , hexadecimal: 34 58 F4 
+Received 24 bits, binary: 111010 11101001 11100101 , hexadecimal: 3A E9 E5 
+Received 24 bits, binary: 111010 11101001 11100101 , hexadecimal: 3A E9 E5 
+Received 24 bits, binary: 111010 11101001 11100101 , hexadecimal: 3A E9 E5 
+Received 24 bits, binary: 111010 11101001 11100101 , hexadecimal: 3A E9 E5 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 111111 1111110 101 , hexadecimal: 3F 7E 5 
+Received 24 bits, binary: 110011 10110010 110101 , hexadecimal: 33 B2 35 
+Received 24 bits, binary: 110011 10110010 110101 , hexadecimal: 33 B2 35 
+Received 24 bits, binary: 110011 10110010 110101 , hexadecimal: 33 B2 35 
+Received 24 bits, binary: 110100 1011000 11110101 , hexadecimal: 34 58 F5 
+Received 24 bits, binary: 110100 1011000 11110101 , hexadecimal: 34 58 F5 
+Received 24 bits, binary: 110100 1011000 11110100 , hexadecimal: 34 58 F4 
+Received 24 bits, binary: 111010 11101001 11100101 , hexadecimal: 3A E9 E5 
+Received 24 bits, binary: 111010 11101001 11100101 , hexadecimal: 3A E9 E5 
+Received 24 bits, binary: 111010 11101001 11100100 , hexadecimal: 3A E9 E4
 B off
 
 Decimal: 3236037 (24Bit) Binary: 001100010110000011000101 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
@@ -126,6 +172,66 @@ Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applica
 Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
 Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
 Decimal: 3939374 (24Bit) Binary: 001111000001110000101110 Tri-State: not applicable PulseLength: 102 microseconds Protocol: 3
+
+
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111111 , hexadecimal: 3D 97 7F 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101011 , hexadecimal: 3C 1C 2B 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 10100111 11110 , hexadecimal: 39 A7 1E 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 111000 1011111 , hexadecimal: 3C 38 5F 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001110 11111010 , hexadecimal: 38 CE FA 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111111 , hexadecimal: 3D 97 7F 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101111 , hexadecimal: 3C 1C 2F 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 111101 10010111 1111110 , hexadecimal: 3D 97 7E 
+Received 24 bits, binary: 110110 1011101 11111000 , hexadecimal: 36 5D F8 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 11100 101110 , hexadecimal: 3C 1C 2E 
+Received 24 bits, binary: 111100 111000 1011100 , hexadecimal: 3C 38 5C 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11010011 10001110 , hexadecimal: 39 D3 8E 
+Received 24 bits, binary: 111001 11000111 11100 , hexadecimal: 39 C7 1C 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE 
+Received 24 bits, binary: 111000 11001011 10111110 , hexadecimal: 38 CB BE
 
 C off
 

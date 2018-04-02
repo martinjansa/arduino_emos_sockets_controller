@@ -1,0 +1,237 @@
+grep "quality 8" remote_controller_codes_A_on.txt | sort
+
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26649320, source: B, quality 85.50 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 45050772, source: B, quality 82.96 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 45097992, source: B, quality 83.54 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49529212, source: B, quality 80.10 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49623628, source: B, quality 82.89 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53323380, source: B, quality 80.09 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53370592, source: B, quality 80.76 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53417828, source: B, quality 83.56 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58670464, source: B, quality 80.53 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58717672, source: B, quality 81.40 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 60058668, source: B, quality 81.63 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 35995748, source: B, quality 84.73 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 36042932, source: B, quality 85.15 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 36090128, source: B, quality 86.18 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37383500, source: B, quality 81.52 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37430708, source: B, quality 83.60 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37477916, source: B, quality 86.58 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38771564, source: B, quality 85.58 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38865988, source: B, quality 82.83 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 42015156, source: B, quality 87.31 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 42062372, source: B, quality 85.52 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 42109580, source: B, quality 82.41 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46615712, source: B, quality 84.81 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46662920, source: B, quality 87.39 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46710128, source: B, quality 84.60 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51500484, source: A, quality 81.74 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 54901224, source: A, quality 80.70 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 54940748, source: A, quality 80.35 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 9886964, source: B, quality 81.44 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29091516, source: B, quality 86.77 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29138716, source: B, quality 85.48 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29185920, source: B, quality 84.94 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40273000, source: B, quality 89.52 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40320200, source: B, quality 84.07 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40367408, source: B, quality 83.44 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 60358548, source: B, quality 81.47 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 60452992, source: B, quality 81.35 % ********
+Received 24 bits binary: 00111011 11100011 00010101, hexadecimal: 3B E3 15, time: 61052716, source: B, quality 81.82 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24226812, source: B, quality 85.15 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24274012, source: B, quality 85.52 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24321200, source: B, quality 80.40 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43285196, source: B, quality 83.81 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43379612, source: B, quality 82.59 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47892496, source: B, quality 86.87 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47939724, source: B, quality 82.83 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52513420, source: B, quality 83.95 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56778044, source: B, quality 82.05 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56872476, source: B, quality 80.14 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 59664348, source: B, quality 82.32 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 61147180, source: B, quality 85.90 % ********
+
+===========================
+
+[Starting] Opening the serial port - COM6
+[Info] Opened the serial port - COM6
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 9807972, source: A, quality 76.67 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 9847460, source: A, quality 64.64 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 9886964, source: B, quality 81.44 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 9934152, source: B, quality 79.96 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 9981340, source: B, quality 78.42 % *******
+Data processing statistics: 726033 iterations, 44100 edges processed, 308 edges missed.
+Data processing statistics: 714439 iterations, 44772 edges processed, 0 edges missed.
+
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24108304, source: A, quality 73.84 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24147812, source: A, quality 56.44 % *****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24187316, source: A, quality 51.41 % *****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24226812, source: B, quality 85.15 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24274012, source: B, quality 85.52 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 24321200, source: B, quality 80.40 % ********
+
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26530832, source: A, quality 67.63 % ******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26570324, source: A, quality 53.96 % *****
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26609824, source: A, quality 44.18 % ****
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26649320, source: B, quality 85.50 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26696512, source: B, quality 79.15 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 26743708, source: B, quality 76.30 % *******
+
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 28973012, source: A, quality 69.75 % ******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29012512, source: A, quality 62.60 % ******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29091516, source: B, quality 86.77 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29138716, source: B, quality 85.48 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 29185920, source: B, quality 84.94 % ********
+Data processing statistics: 553001 iterations, 38395 edges processed, 1493 edges missed.
+
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 29052016, source: A, quality 62.82 % ******
+
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 35877268, source: A, quality 70.96 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 35916768, source: A, quality 64.71 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 35956256, source: A, quality 58.26 % *****
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 35995748, source: B, quality 84.73 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 36042932, source: B, quality 85.15 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 36090128, source: B, quality 86.18 % ********
+Received 24 bits binary: 00111110 00110001 00010101, hexadecimal: 3E 31 15, time: 36342632, source: B, quality 79.99 % *******
+
+Received 24 bits binary: 00111110 01011100 11010100, hexadecimal: 3E 5C D4, time: 36224116, source: A, quality 35.83 % ***
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 36736792, source: B, quality 78.35 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 36783996, source: B, quality 76.81 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 36997040, source: A, quality 32.32 % ***
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37304480, source: A, quality 45.73 % ****
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37383500, source: B, quality 81.52 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37430708, source: B, quality 83.60 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 37477916, source: B, quality 86.58 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 37611944, source: A, quality 40.43 % ****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 37651464, source: A, quality 39.95 % ***
+Received 24 bits binary: 00111110 00110001 01010101, hexadecimal: 3E 31 55, time: 37777704, source: B, quality 74.31 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 38171964, source: B, quality 71.97 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 38424568, source: B, quality 76.66 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 38471800, source: B, quality 76.44 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 38519004, source: B, quality 77.88 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38613524, source: A, quality 42.36 % ****
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38653040, source: A, quality 43.08 % ****
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38692548, source: A, quality 46.72 % ****
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38771564, source: B, quality 85.58 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 38865988, source: B, quality 82.83 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 39213016, source: B, quality 77.04 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 39260240, source: B, quality 75.50 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 39512888, source: B, quality 71.51 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 39560108, source: B, quality 73.83 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40154444, source: A, quality 73.02 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40193964, source: A, quality 63.76 % ******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40273000, source: B, quality 89.52 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40320200, source: B, quality 84.07 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 40367408, source: B, quality 83.44 % ********
+Data processing statistics: 376668 iterations, 30372 edges processed, 2021 edges missed.
+
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 41896632, source: A, quality 69.88 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 41936144, source: A, quality 64.57 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 41975652, source: A, quality 61.70 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 42015156, source: B, quality 87.31 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 42062372, source: B, quality 85.52 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 42109580, source: B, quality 82.41 % ********
+
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43166632, source: A, quality 67.30 % ******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43206140, source: A, quality 52.45 % *****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43245664, source: A, quality 47.68 % ****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43285196, source: B, quality 83.81 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43332404, source: B, quality 78.14 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 43379612, source: B, quality 82.59 % ********
+
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 44885004, source: A, quality 66.47 % ******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 44924528, source: A, quality 49.20 % ****
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 45003556, source: B, quality 78.38 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 45050772, source: B, quality 82.96 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 45097992, source: B, quality 83.54 % ********
+Received 24 bits binary: 00110110 10100100 10001101, hexadecimal: 36 A4 8D, time: 45397792, source: B, quality 77.72 % *******
+
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46497184, source: A, quality 73.15 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46536688, source: A, quality 61.74 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46576204, source: A, quality 57.25 % *****
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46615712, source: B, quality 84.81 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46662920, source: B, quality 87.39 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 46710128, source: B, quality 84.60 % ********
+
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47726740, source: A, quality 66.16 % ******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47766256, source: A, quality 49.68 % ****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47805772, source: A, quality 45.46 % ****
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47845288, source: B, quality 78.33 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47892496, source: B, quality 86.87 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 47939724, source: B, quality 82.83 % ********
+
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49410656, source: A, quality 77.14 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49450176, source: A, quality 73.20 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49489692, source: A, quality 69.12 % ******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49529212, source: B, quality 80.10 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49576420, source: B, quality 79.39 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 49623628, source: B, quality 82.89 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 50533660, source: A, quality 79.77 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 50573180, source: A, quality 77.31 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 50612680, source: A, quality 71.88 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 50652196, source: B, quality 73.14 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 50699400, source: B, quality 75.98 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 50746608, source: B, quality 77.58 % *******
+Data processing statistics: 373928 iterations, 27685 edges processed, 2618 edges missed.
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51460968, source: A, quality 79.38 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51500484, source: A, quality 81.74 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51539996, source: A, quality 78.88 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51579500, source: B, quality 65.60 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51626724, source: B, quality 69.95 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 51673920, source: B, quality 72.17 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52300436, source: A, quality 75.37 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52339968, source: A, quality 75.54 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52379476, source: A, quality 72.01 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52418996, source: B, quality 77.49 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52466200, source: B, quality 78.17 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 52513420, source: B, quality 83.95 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53204820, source: A, quality 77.70 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53244336, source: A, quality 75.75 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53283868, source: A, quality 69.26 % ******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53323380, source: B, quality 80.09 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53370592, source: B, quality 80.76 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 53417828, source: B, quality 83.56 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 54015804, source: A, quality 76.56 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 54055328, source: A, quality 76.86 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 54094840, source: A, quality 74.98 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 54134356, source: B, quality 74.99 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 54181572, source: B, quality 76.34 % *******
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 54228788, source: B, quality 76.90 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 54861720, source: A, quality 75.67 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 54901224, source: A, quality 80.70 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 54940748, source: A, quality 80.35 % ********
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 54980248, source: B, quality 69.88 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 55027452, source: B, quality 71.28 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 55074660, source: B, quality 72.82 % *******
+
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56659492, source: A, quality 74.61 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56699020, source: A, quality 72.66 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56738524, source: A, quality 68.57 % ******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56778044, source: B, quality 82.05 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56825256, source: B, quality 79.85 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 56872476, source: B, quality 80.14 % ********
+
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58504708, source: A, quality 76.49 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58544236, source: A, quality 72.60 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58583732, source: A, quality 68.21 % ******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58623252, source: B, quality 77.64 % *******
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58670464, source: B, quality 80.53 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 58717672, source: B, quality 81.40 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 58812204, source: A, quality 59.81 % *****
+Received 24 bits binary: 00110110 10100100 01000110, hexadecimal: 36 A4 46, time: 59017488, source: B, quality 79.98 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 59277776, source: A, quality 67.32 % ******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 59317296, source: B, quality 73.35 % *******
+Received 24 bits binary: 00110010 00000101 00011100, hexadecimal: 32 5 1C, time: 59411720, source: B, quality 77.04 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 59545788, source: A, quality 65.68 % ******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 59664348, source: B, quality 82.32 % ********
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 59932396, source: A, quality 55.65 % *****
+Received 24 bits binary: 00110000 11111101 10101100, hexadecimal: 30 FD AC, time: 60058668, source: B, quality 81.63 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 60200448, source: A, quality 57.92 % *****
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 60239972, source: A, quality 59.77 % *****
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 60358548, source: B, quality 81.47 % ********
+Received 24 bits binary: 00110110 10100100 01101100, hexadecimal: 36 A4 6C, time: 60452992, source: B, quality 81.35 % ********
+Received 24 bits binary: 00110110 10100100 01001100, hexadecimal: 36 A4 4C, time: 60500224, source: B, quality 78.60 % *******
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 61013180, source: A, quality 56.29 % *****
+Received 24 bits binary: 00111011 11100011 00010101, hexadecimal: 3B E3 15, time: 61052716, source: B, quality 81.82 % ********
+Received 24 bits binary: 00111110 00110001 01011100, hexadecimal: 3E 31 5C, time: 61147180, source: B, quality 85.90 % ********
+Data processing statistics: 208512 iterations, 15644 edges processed, 3871 edges missed.
